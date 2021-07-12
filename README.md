@@ -1,2 +1,5 @@
 # Maze-Game
-d
+Basic java maze generator and solver
+
+implemented using swing GUI
+
