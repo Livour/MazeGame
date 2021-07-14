@@ -1,5 +1,5 @@
 # Maze-Game
-Basic java maze generator and solver
+Basic Java maze generator and solver
 
 implemented using Java Swing GUI
 
