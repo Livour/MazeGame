@@ -1,7 +1,7 @@
 # Maze-Game
 Basic Java maze generator and solver
 
-developed using Java Swing GUI
+Built using Java Swing GUI
 
 ## Algorithms used
 Depth-first search (Recursive implementation)
